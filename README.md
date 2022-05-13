@@ -19,8 +19,6 @@ Hi there : Contact for work.
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Ruby_On_Rails-informational?style=flat&logo=ruby&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Native_Script-informational?style=flat&logo=nativescript&logoColor=white&color=3bac3a)
 
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
